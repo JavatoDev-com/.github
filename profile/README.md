@@ -25,12 +25,21 @@ Article Series,
 19. [Docker Compose For Spring Boot with MySQL](https://javatodev.com/docker-compose-for-spring-boot-with-mysql/)  
 20. [Docker Compose For Spring Boot with MariaDB](https://javatodev.com/docker-compose-for-spring-boot-with-mariadb/)  
 21. [Docker Compose For Spring Boot with MongoDB](https://javatodev.com/docker-compose-for-spring-boot-with-mongodb/)
-
-
-- 📝 I regularly write articles on [http://javatodev.com/](http://javatodev.com/)
-
-- 💬 Ask me about **Spring Boot, Java, Vue JS, Angular**
-
-- 📫 How to reach me **author@javatodev.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/chinthakadinadasa/](https://www.linkedin.com/in/chinthakadinadasa/)
+22. [How To Handle Multiple Message Properties In Spring Boot](https://javatodev.com/how-to-handle-multiple-message-properties-in-spring-boot/)
+23. [Multiple Datasources With Spring Boot Data JPA](https://javatodev.com/multiple-datasources-with-spring-boot-data-jpa/)
+24. [Building Microservices With Spring Boot – Free Course With Practical Project](https://javatodev.com/building-microservices-with-spring-boot-free-course-with-practical-project/)
+25. [Microservices – Service Registration and Discovery With Spring Cloud Netflix Eureka](https://javatodev.com/microservices-service-registration-and-discovery-with-spring-cloud-netflix-eureka/)
+26. [Microservices – Setup API Gateway Using Spring Cloud Gateway](https://javatodev.com/microservices-setup-api-gateway-using-spring-cloud-gateway/)
+27. [Microservices – Authentication, and Authorization With Keycloak](https://javatodev.com/microservices-authentication-and-authorization-with-keycloak/)
+28. [Microservices – Core Banking Service Implementation](https://javatodev.com/microservices-core-banking-service-implementation/)
+29. [Microservices – User Service Implementation](https://javatodev.com/microservices-user-service-implementation/)
+30. [Microservices – Fund Transfer Service Implementation](https://javatodev.com/microservices-fund-transfer-service-implementation/)
+31. [Microservices – Utility Payment Service Implementation](https://javatodev.com/microservices-utility-payment-service-implementation/)
+32. [Microservices – Communication With Spring Cloud OpenFeign](https://javatodev.com/microservices-communication-with-spring-cloud-openfeign/)
+33. [Microservices – Exception Handling](https://javatodev.com/microservices-exception-handling/)
+34. [Microservices – Centralized Configurations With Spring Cloud Config](https://javatodev.com/microservices-centralized-configurations-with-spring-cloud-config/)
+35. [How to Use Amazon SQS With Spring Boot](https://javatodev.com/how-to-use-amazon-sqs-with-spring-boot/)
+36. [Task Scheduling on Spring Boot Using @Scheduler](https://javatodev.com/how-to-use-scheduler-annotation-in-spring-boot/)
+37. [How to Setup HashiCorp Vault With Spring Boot Application](https://javatodev.com/hashicorp-vault-spring-boot/)
+38. [Deploy Spring Boot Application On AWS Elastic Beanstalk](https://javatodev.com/deploy-spring-boot-application-on-aws-elastic-beanstalk/)
+39. [AWS Lambda Serverless CRUD API With Java](https://javatodev.com/aws-serverless-crud-api-functions-with-java/)
