@@ -43,3 +43,4 @@ Article Series,
 37. [How to Setup HashiCorp Vault With Spring Boot Application](https://javatodev.com/hashicorp-vault-spring-boot/)
 38. [Deploy Spring Boot Application On AWS Elastic Beanstalk](https://javatodev.com/deploy-spring-boot-application-on-aws-elastic-beanstalk/)
 39. [AWS Lambda Serverless CRUD API With Java](https://javatodev.com/aws-serverless-crud-api-functions-with-java/)
+40. [How to Build AWS VPC Using Terraform – Step By Step](https://javatodev.com/how-to-build-aws-vpc-using-terraform-step-by-step/)
